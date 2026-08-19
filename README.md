@@ -6,8 +6,17 @@ A full-stack web application that models a learning curriculum as a **directed g
 
 ## Screenshots
 
-> Add screenshots to `docs/screenshots/` after running the app locally.  
-> Suggested filenames: `dashboard.png`, `learning-path.png`, `goals.png`, `topics.png`.
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Goals
+![Goals](docs/screenshots/goals.png)
+
+### Learning Path
+![Learning Path](docs/screenshots/learning-path.png)
+
+### My Topics
+![My Topics](docs/screenshots/topics.png)
 
 ---
 
