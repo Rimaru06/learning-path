@@ -449,11 +449,3 @@ Measured numbers from the actual test run. Coverage artifacts are excluded from 
 - **Completion timestamps** — Store when each topic was completed as a property on the `KNOWS` relationship.
 
 ---
-
-## Live Demo
-
-_Not deployed. Run locally following the [Setup](#setup) instructions above._
-
-## Demo Video
-
-_Not recorded. A walkthrough should show: switching users, selecting a goal, viewing the learning path (available / locked / completed sections), and marking a topic as completed to watch the path update._
